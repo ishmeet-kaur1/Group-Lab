@@ -2,7 +2,7 @@ import random
 # Define the options for the game
 options = ["rock", "paper", "scissors"]
 
-# Get the computer's choice
+# Get computer's choice 
 computerOption = random.choice(options)
 
 # Print the computer's choice
